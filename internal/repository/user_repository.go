@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"spotsync/models"
+	"spotsync/internal/models"
 
 	"gorm.io/gorm"
 )
